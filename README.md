@@ -1,1 +1,1 @@
-Resolução de questões da OBI 
+Este repositório contém diversas resoluções para as questões da OBI. Por enquanto, há apenas resoluções das provas da fase 1 excluindo o nível senior. Se está a procura de uma questão em específico, procure ela pelo nome na caixa de pesquisa, utilizando o nome indicado na prova.
